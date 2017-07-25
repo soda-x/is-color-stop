@@ -1,3 +1,5 @@
+'use strict';
+
 const isRGB = require('./lib/isRGB');
 const isRGBA = require('./lib/isRGBA');
 const isHSL = require('./lib/isHSL');

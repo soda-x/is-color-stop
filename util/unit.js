@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * https://github.com/TrySound/postcss-value-parser/blob/fc679a7e17877841ff9fe455722280b65abd4f28/lib/unit.js
  * parse node -> number and unit

@@ -24,20 +24,8 @@ function isColor(colorStr) {
 }
 
 
-module.exports = function isColorStop(str1, str2) {
-  let colorStr;
-  let stopStr;
-  if (str2) {
-    colorStr = str1;
-    stopStr = str2;
-  } else {
-    const colorStopRex = /^\s{0,}(\S+)\s{0,}(\S*)$/g;
-    const mix = colorStopRex.exec(str1);
-    colorStr = mix[1];
-    stopStr = mix[2];
-  }
-
-  return isColor(colorStr) && isStop(stopStr);
+module.exports = function isColorStop(color, stop) {
+  return isColor(color) && isStop(stop);
 };
 module.exports.isColor = isColor;
 module.exports.isRGB = isRGB;

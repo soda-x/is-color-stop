@@ -20,9 +20,9 @@ $ npm install is-color-stop
 ```js
 const isColorStop = require('is-color-stop');
 
-isColorStop('yellow    12px') // true
 isColorStop('yellow') // true
 isColorStop('yellow', '12px') // true
+isColorStop('yellow', 'calc(100%)') // true
 isColorStop('yellow', 'px') // false
 
 isColorStop.isColor('red') // true

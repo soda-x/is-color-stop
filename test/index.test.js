@@ -5,10 +5,10 @@ const isColorStop = require('..');
 
 describe('is-color-stop', function () {
   it('isColorStop', function () {
-    assert.ok(isColorStop('yellow    12px'));
     assert.ok(isColorStop('yellow'));
     assert.ok(isColorStop('yellow', '12px'));
     assert.ok(!isColorStop('yellow', 'px'));
+    assert.ok(isColorStop('yellow', 'calc(100%)'));
   });
 
   it('isColor', function () {

@@ -1,7 +1,7 @@
 {
   "name": "is-color-stop",
   "description": "Check if a string is CSS color stop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "directories": {
     "test": "test"

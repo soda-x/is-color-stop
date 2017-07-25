@@ -2,6 +2,11 @@
 
 Check if a string is CSS color stop
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/pigcan/is-color-stop)
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/pigcan/is-color-stop)
+[![Coveralls](https://img.shields.io/coveralls/jekyll/jekyll.svg)](https://github.com/pigcan/is-color-stop)
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/pigcan/is-color-stop)
+
 
 ## Install
 

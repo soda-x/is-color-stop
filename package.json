@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "nyc --reporter=lcov --reporter=text mocha",
-    "cov": "cat ./coverage/lcov.info | coveralls",
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
     "lint": "eslint --ext .js lib util ./index.js"
   },
   "devDependencies": {

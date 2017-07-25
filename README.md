@@ -2,10 +2,11 @@
 
 Check if a string is CSS color stop
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/pigcan/is-color-stop)
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/pigcan/is-color-stop)
-[![Coveralls](https://img.shields.io/coveralls/jekyll/jekyll.svg)](https://github.com/pigcan/is-color-stop)
-[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/pigcan/is-color-stop)
+[![NPM version](https://img.shields.io/npm/v/is-color-stop.svg?style=flat)](https://npmjs.org/package/is-color-stop)
+[![Build Status](https://img.shields.io/travis/pigcan/is-color-stop.svg?style=flat)](https://travis-ci.org/pigcan/is-color-stop)
+[![Coverage Status](https://img.shields.io/coveralls/pigcan/is-color-stop.svg?style=flat)](https://coveralls.io/r/pigcan/is-color-stop)
+[![NPM downloads](http://img.shields.io/npm/dm/is-color-stop.svg?style=flat)](https://npmjs.org/package/is-color-stop)
+[![Dependency Status](https://david-dm.org/pigcan/is-color-stop.svg)](https://david-dm.org/pigcan/is-color-stop)
 
 
 ## Install

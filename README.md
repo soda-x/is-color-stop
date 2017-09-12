@@ -1,7 +1,5 @@
 # is-color-stop
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/pigcan/is-color-stop.svg)](https://greenkeeper.io/)
-
 Check if a string is CSS color stop
 
 [![NPM version](https://img.shields.io/npm/v/is-color-stop.svg?style=flat)](https://npmjs.org/package/is-color-stop)
@@ -9,6 +7,7 @@ Check if a string is CSS color stop
 [![Coverage Status](https://img.shields.io/coveralls/pigcan/is-color-stop.svg?style=flat)](https://coveralls.io/r/pigcan/is-color-stop)
 [![NPM downloads](http://img.shields.io/npm/dm/is-color-stop.svg?style=flat)](https://npmjs.org/package/is-color-stop)
 [![Dependency Status](https://david-dm.org/pigcan/is-color-stop.svg)](https://david-dm.org/pigcan/is-color-stop)
+[![Greenkeeper badge](https://badges.greenkeeper.io/pigcan/is-color-stop.svg)](https://greenkeeper.io/)
 
 
 ## Install

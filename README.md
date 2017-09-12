@@ -1,5 +1,7 @@
 # is-color-stop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pigcan/is-color-stop.svg)](https://greenkeeper.io/)
+
 Check if a string is CSS color stop
 
 [![NPM version](https://img.shields.io/npm/v/is-color-stop.svg?style=flat)](https://npmjs.org/package/is-color-stop)

@@ -17,7 +17,7 @@
     "eslint-config-airbnb": "^16.0.0",
     "eslint-plugin-import": "^2.7.0",
     "mocha": "^5.0.0",
-    "nyc": "^11.0.3"
+    "nyc": "^12.0.1"
   },
   "dependencies": {
     "css-color-names": "^0.0.4",

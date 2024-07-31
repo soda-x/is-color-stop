@@ -33,6 +33,7 @@ describe('is-color-stop', function () {
 
   it('isHex', function () {
     assert.ok(isColorStop.isHex('#123456'));
+    assert.ok(!isColorStop.isHex('foo#123456'));
   });
 
   it('isCSSColorName', function () {
